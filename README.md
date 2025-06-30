@@ -28,3 +28,12 @@ This is a console-based **Library Management System** written in **C++ (Turbo C+
 | `<conio.h>`         | Console UI and effects          |
 | `<iostream.h>`      | Input/Output operations         |
 | Turbo C++ / DOSBox  | IDE / Emulator for execution    |
+
+## 📁 File Structure
+
+LibraryManagementSystem/
+├── book.h # Book class and functions
+├── student.h # Student class and functions
+├── main.cpp # Main program and menus
+├── *.dat # Binary data files created at runtime
+└── README.md # Project documentation (this file)
